@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1593475828 source:c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593478243 c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1593479390 source:c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+	"eBicicleta.h"
+
+1593477992 source:c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\parser.c
+	"parser.h"
+	"eBicicleta.h"
+
+1593477769 c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+
+1593478261 c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\ebicicleta.h
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1593478278 source:c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\controller.c
+	"controller.h"
+	"eBicicleta.h"
+	"parser.h"
+
+1593477649 c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+
+1593478049 source:c:\users\user\desktop\segundoparcialcimma\cimma.splabi.1g\segundoparcialcimma1g\ebicicleta.c
+	"eBicicleta.h"
+
